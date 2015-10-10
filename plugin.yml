@@ -1,0 +1,6 @@
+name: Disenchanting
+main: net.samongi.Disenchanting.Disenchanting
+version: 0.0
+description: Adds the ability to disenchant items.
+author: Migsect
+depend: [SamongiLib]
